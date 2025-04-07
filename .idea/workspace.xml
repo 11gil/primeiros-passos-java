@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f7328b3-ff46-498c-930b-7faad0c06aa1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/primeiros-passos-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio1-ExerciciosIniciais/ExerciciosIniciais.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio1-ExerciciosIniciais/desafio1-ExerciciosIniciais.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio1-ExerciciosIniciais/desafio1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio1-ExerciciosIniciais/src/ComoConcatenar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio1-ExerciciosIniciais/src/Saudacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio2-ManipulacaoEficienteDeVariaveis/ManipulacaoEficienteDeVariaveis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio2-ManipulacaoEficienteDeVariaveis/desafio2-ManipulacaoEficienteDeVariaveis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio2-ManipulacaoEficienteDeVariaveis/desafio2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2vPPIXhhWNKtDr2oTXITSeA5l7V" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,7 +44,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/ONE/Java/primeiros-passos-java/desafio1-ExerciciosIniciais"
+    "last_opened_file_path": "D:/ONE/Java/primeiros-passos-java"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Perfil">
