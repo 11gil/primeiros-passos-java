@@ -47,7 +47,7 @@
     "last_opened_file_path": "D:/ONE/Java/primeiros-passos-java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Perfil">
+  <component name="RunManager" selected="Application.MediaDeDuasNotasDecimais">
     <configuration name="CastingDaVariavelDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CastingDaVariavelDouble" />
       <module name="desafio2-ManipulacaoEficienteDeVariaveis" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MediaDeDuasNotasDecimais" />
+        <item itemvalue="Application.CastingDaVariavelDouble" />
         <item itemvalue="Application.Perfil" />
         <item itemvalue="Application.ComoConcatenar" />
         <item itemvalue="Application.Saudacao" />
-        <item itemvalue="Application.MediaDeDuasNotasDecimais" />
-        <item itemvalue="Application.CastingDaVariavelDouble" />
       </list>
     </recent_temporary>
   </component>
