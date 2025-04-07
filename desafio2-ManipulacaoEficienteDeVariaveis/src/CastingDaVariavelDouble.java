@@ -1,5 +1,14 @@
 public class CastingDaVariavelDouble {
     public static void main(String[] args) {
+        double valor = 10.75;
+        int valorConvertido = (int) valor;
+        System.out.println(valorConvertido);
+    }
+}
+
+/*
+public class CastingDaVariavelDouble {
+    public static void main(String[] args) {
         // Declare uma variável do tipo double e uma variável do tipo int.
         // Faça o casting da variável double para int e imprima o resultado.
 
@@ -9,3 +18,6 @@ public class CastingDaVariavelDouble {
         System.out.println("Casting da variável double para int: " + variavelInt);
     }
 }
+*/
+
+

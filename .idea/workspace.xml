@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7328b3-ff46-498c-930b-7faad0c06aa1" name="Changes" comment="" />
+    <list default="true" id="4f7328b3-ff46-498c-930b-7faad0c06aa1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio2-ManipulacaoEficienteDeVariaveis/src/CastingDaVariavelDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/desafio2-ManipulacaoEficienteDeVariaveis/src/CastingDaVariavelDouble.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,7 @@
     "last_opened_file_path": "D:/ONE/Java/primeiros-passos-java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MediaDeDuasNotasDecimais">
+  <component name="RunManager" selected="Application.CastingDaVariavelDouble">
     <configuration name="CastingDaVariavelDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CastingDaVariavelDouble" />
       <module name="desafio2-ManipulacaoEficienteDeVariaveis" />
@@ -83,8 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MediaDeDuasNotasDecimais" />
         <item itemvalue="Application.CastingDaVariavelDouble" />
+        <item itemvalue="Application.MediaDeDuasNotasDecimais" />
         <item itemvalue="Application.Perfil" />
         <item itemvalue="Application.ComoConcatenar" />
         <item itemvalue="Application.Saudacao" />
