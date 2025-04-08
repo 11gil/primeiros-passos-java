@@ -68,7 +68,7 @@ Fixar a sintaxe da linguagem Java, praticar lógica de programação e consolida
 
 ## 🔗 Conecte-se comigo
 
-- 📌 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 📌 [LinkedIn](https://www.linkedin.com/in/gilsontavares)
 - 📌 Canal [Computação Criativa](https://www.youtube.com/@computacaocriativa)
 - 📌 Instagram: [@gilson.computacaocriativa](https://www.instagram.com/gilson.computacaocriativa)
 - 📌 [Sítio São Miguel Arcanjo](https://site-oracao-sao-miguel.vercel.app/)
