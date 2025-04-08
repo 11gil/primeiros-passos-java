@@ -1,6 +1,7 @@
 # 🚀 Primeiros Passos com Java
 
-Este repositório contém minhas primeiras práticas em **Java** como parte da jornada no programa **ONE - Oracle Next Education**.  
+Este repositório contém minhas primeiras práticas em Java como parte da jornada no programa **ONE - Oracle Next Education**.
+
 Aqui, coloco em prática conceitos fundamentais como estrutura básica de um programa, operações aritméticas e impressão no console.
 
 ---
@@ -9,25 +10,36 @@ Aqui, coloco em prática conceitos fundamentais como estrutura básica de um pro
 
 - Como configurar o ambiente de desenvolvimento com **JDK 21** e **IntelliJ IDEA**
 - Diferença entre **JVM**, **JRE** e **JDK**:
-    - **JVM**: Executa o bytecode.
-    - **JRE**: Fornece as bibliotecas padrão do Java.
-    - **JDK**: Compila o código-fonte em bytecode.
+  - **JVM**: Executa o bytecode.
+  - **JRE**: Fornece as bibliotecas padrão do Java.
+  - **JDK**: Compila o código-fonte em bytecode.
 - Criação e execução de programas simples em Java.
 
 ---
 
 ## 🧪 Exercícios Realizados
 
+### 📂 `desafio1-FundamentosIniciaisJava/`
+
 - `Perfil.java`: Imprime duas mensagens personalizadas.
 - `Estudos.java`: Exibe anotações sobre os estudos.
 - `Soma.java`: Calcula e imprime o resultado de 10 + 5.
 - `Subtracao.java`: Calcula e imprime o resultado de 10 - 5.
-- `Concatenacao.java`: Demonstra a grande variedade de textos com variações.
+- `Concatenacao.java`: Demonstra uma grande variedade de textos com variações.
 - `Conversao.java`: Conversão de tipos em Java.
 - `DollarParaReal.java`: Conversão de valores de dólar para real.
 - `DollarParaRealComCasting.java`: Conversão de dólar para real utilizando casting.
 - `Temperatura.java`: Conversão de temperatura de Celsius para Fahrenheit.
-- `Textos.java`: Formatação de textos com **Text Block**.
+- `Textos.java`: Formatação de textos com *Text Block*.
+
+### 📂 `desafio2-ManipulacaoEficienteDeVariaveis/`
+
+Exercícios práticos focados na criação e manipulação de variáveis:
+
+- `CalcularMultiplicacao.java`: Multiplica dois valores definidos e exibe o resultado.
+- `ConcatenarVariaveis.java`: Exibe uma mensagem concatenando texto com variáveis.
+- `DescontoNoPreco.java`: Aplica desconto sobre um preço base.
+- `DallarParaReal.java`: Converte dólar para real com uma taxa fixa.
 
 ---
 
@@ -56,11 +68,11 @@ Fixar a sintaxe da linguagem Java, praticar lógica de programação e consolida
 
 ## 🔗 Conecte-se comigo
 
-- 📌 [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
-- 📌 [Canal Computação Criativa](https://www.youtube.com/@computacaocriativa)
+- 📌 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 📌 Canal [Computação Criativa](https://www.youtube.com/@computacaocriativa)
 - 📌 Instagram: [@gilson.computacaocriativa](https://www.instagram.com/gilson.computacaocriativa)
-- 📌 [Site São Miguel Arcanjo](https://site-oracao-sao-miguel.vercel.app)
+- 📌 [Sítio São Miguel Arcanjo](https://site-oracao-sao-miguel.vercel.app/)
 
 ---
 
-🧑‍💻 *Desenvolvedor em Formação – Rumo ao Back-End!*
+🧑‍💻 **Desenvolvedor em Formação – Rumo ao Back-End!**
